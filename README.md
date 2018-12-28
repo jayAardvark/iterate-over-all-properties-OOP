@@ -1,1 +1,1 @@
-# iterate-over-all-properties-OOP
+### hard-coded way to iterate over all properties. use it for something
