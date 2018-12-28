@@ -1,0 +1,1 @@
+# iterate-over-all-properties-OOP
